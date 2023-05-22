@@ -1,6 +1,6 @@
 <template>
   <v-app>
-   <v-btn density="compact" flat="false" height="8rem" color="green">
+   <v-btn density="compact" flat="false" height="8rem" color="red">
   Button
 </v-btn>
   </v-app>
